@@ -19,6 +19,8 @@ Plugin offers a admin screen to select the posts of which commentators should be
 
 You also have the option of excluding list of emails and specifying a Bcc email address.
 
+If you find a bug, please report the issue here - https://github.com/ashfame/email-posts-commentators/issues
+
 == Installation ==
 
 1. Upload `email-posts-commentators` to the `/wp-content/plugins/` directory
@@ -33,11 +35,7 @@ Because you haven't asked anything.
 
 == Screenshots ==
 
-1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Note that the screenshot is taken from
-the /assets directory or the directory that contains the stable readme.txt (tags or trunk). Screenshots in the /assets 
-directory take precedence. For example, `/assets/screenshot-1.png` would win over `/tags/4.3/screenshot-1.png` 
-(or jpg, jpeg, gif).
-2. This is the second screen shot
+1. Admin screen
 
 == Changelog ==
 
