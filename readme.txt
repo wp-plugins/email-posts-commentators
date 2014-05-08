@@ -37,6 +37,8 @@ Because you haven't asked anything.
 
 1. Admin screen
 
+2. Email that goes out
+
 == Changelog ==
 
 = 0.1 =
